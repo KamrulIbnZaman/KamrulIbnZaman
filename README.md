@@ -2,7 +2,7 @@
 - 👀 I’m interested in Flutter 
 - 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on Internship 
-- 📫 How to reach me kizrudroa@gmail.com
+- 📫 How to reach me kamrulibnzaman@gmail.com
 
 <!---
 KamrulIbnZaman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
