@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @KamrulIbnZaman
-- 👀 I’m interested in Flutter 
-- 🌱 I’m currently learning Flutter
-- 💞️ I’m looking to collaborate on Internship 
+- 👀 I’m interested in flutter 
 - 📫 How to reach me kamrulibnzaman@gmail.com
 
 <!---
