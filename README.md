@@ -5,16 +5,17 @@
 <a href="https://codecanyon.net/item/grenmart-laravel-ecommerce-shop-flutter-app/40188895">- Grenmart</a>
 
 
-<h3 align="left">Released app for company :</h3><a href="https://xgenious.com">- Xgenious</a>
+<h3 align="left">Released app for company :</h3><a href="https://xgenious.com">Xgenious</a>
 <a href="https://i.postimg.cc/T1tXSSGK/i-Phone-12-Pro-3.webp">- Shopmart</a>
 
 <h3 align="left">Released app on Play store:</h3> 
 <p align="left">
 <img align="center" src="https://i.postimg.cc/sfwKBygk/314627208-1998699590341332-1190079230480457434-n.jpg" 
+
 <p align="left">
 <img align="center" src="https://i.postimg.cc/8cKbxdYp/image-11.jpg" 
      
- <h3 align="left">Released app on Apps store:</h3> 
+ <h3 align="left">Released app on App store:</h3> 
 <p align="left">
 <img align="center" src="https://i.postimg.cc/m2nwwwMV/325412168-511378201059727-7233546358729569567-n.png" 
 
