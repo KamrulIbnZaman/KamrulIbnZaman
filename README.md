@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Kamrul Ibn Zaman</h1>
 <h3 align="center">A passionate flutter developer from Bangladesh</h3>
 
-<h3 align="left">Released app on :</h3>
-<a href="https://codecanyon.net/item/grenmart-laravel-ecommerce-shop-flutter-app/40188895">- [CodeCanyoun]</a>
-- [Grenmart](https://codecanyon.net/item/grenmart-laravel-ecommerce-shop-flutter-app/40188895)
+<h3 align="left">Released app on :</h3><a href="https://codecanyon.net/item/grenmart-laravel-ecommerce-shop-flutter-app/40188895">CodeCanyoun</a>
+<a href="https://codecanyon.net/item/grenmart-laravel-ecommerce-shop-flutter-app/40188895">- Grenmart</a>
 
-<h3 align="left">Released app for company :</h3>[Xgenious](https://xgenious.com/)
-- [Shopmart](https://i.postimg.cc/T1tXSSGK/i-Phone-12-Pro-3.webp)
+
+<h3 align="left">Released app for company :</h3><a href="https://xgenious.com">- Xgenious</a>
+<a href="https://i.postimg.cc/T1tXSSGK/i-Phone-12-Pro-3.webp">- Shopmart</a>
 
 <h3 align="left">Released app on Play store:</h3> 
 <p align="left">
