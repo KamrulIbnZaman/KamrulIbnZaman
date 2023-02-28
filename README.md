@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Kamrul Ibn Zaman</h1>
 <h3 align="center">A passionate flutter developer from Bangladesh</h3>
 
-<h3 align="left">Released app on :</h3>[CodeCanyoun](https://codecanyon.net/item/grenmart-laravel-ecommerce-shop-flutter-app/40188895)
+<h3 align="left">Released app on :</h3>
+<a href="https://codecanyon.net/item/grenmart-laravel-ecommerce-shop-flutter-app/40188895">- [CodeCanyoun]</a>
 - [Grenmart](https://codecanyon.net/item/grenmart-laravel-ecommerce-shop-flutter-app/40188895)
 
 <h3 align="left">Released app for company :</h3>[Xgenious](https://xgenious.com/)
