@@ -14,6 +14,8 @@
   <summary>Released app on Play store</summary>
   <img src="https://i.postimg.cc/sfwKBygk/314627208-1998699590341332-1190079230480457434-n.jpg" height="150" name="image-name">
   <img src="https://i.postimg.cc/8cKbxdYp/image-11.jpg" height="150" name="image-name">
+  <img src="https://i.postimg.cc/XNmRrmLJ/image-14.png" height="150" name="image-name">
+  <img src="https://i.postimg.cc/GhDZGKgj/image-15.png" height="150" name="image-name">
 </details>
   
   <details>
