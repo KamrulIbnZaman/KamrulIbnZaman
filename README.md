@@ -10,7 +10,7 @@
 
 <h3 align="left">Released app on Play store:</h3> 
 <p align="left">
-<img align="center" src="https://i.postimg.cc/sfwKBygk/314627208-1998699590341332-1190079230480457434-n.jpg" height="30" width="40"
+<img align="center" src="https://i.postimg.cc/sfwKBygk/314627208-1998699590341332-1190079230480457434-n.jpg" height="100" 
 <h3 align="left"> </h3>
 <p align="left">
 <img align="center" src="https://i.postimg.cc/8cKbxdYp/image-11.jpg" 
