@@ -11,14 +11,15 @@
 <h3 align="left">Released app on Play store:</h3> 
 <p align="left">
 <details>
-  <summary>Released app on Play store:</summary>
-  <img src="https://i.postimg.cc/sfwKBygk/314627208-1998699590341332-1190079230480457434-n.jpg" name="image-name">
-  <img src="https://i.postimg.cc/8cKbxdYp/image-11.jpg" name="image-name">
+  <summary>Released app on Play store</summary>
+  <img src="https://i.postimg.cc/sfwKBygk/314627208-1998699590341332-1190079230480457434-n.jpg" height="150" name="image-name">
+  <img src="https://i.postimg.cc/8cKbxdYp/image-11.jpg" height="150" name="image-name">
 </details>
-     
- <h3 align="left">Released app on App store:</h3> 
-<p align="left">
-<img align="center" src="https://i.postimg.cc/m2nwwwMV/325412168-511378201059727-7233546358729569567-n.png" " 
+  
+  <details>
+  <summary>Released app on App store</summary>
+  <img src="https://i.postimg.cc/m2nwwwMV/325412168-511378201059727-7233546358729569567-n.png"  height="150" name="image-name">
+</details>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
