@@ -11,8 +11,9 @@
 <h3 align="left">Released app on Play store:</h3> 
 <p align="left">
 <details>
-  <summary>Released app on Play store:</summary><details>
-  <img src="[image-url](https://i.postimg.cc/sfwKBygk/314627208-1998699590341332-1190079230480457434-n.jpg)" name="image-name">
+  <summary>Released app on Play store:</summary>
+  <details>
+  <img src="https://i.postimg.cc/sfwKBygk/314627208-1998699590341332-1190079230480457434-n.jpg" name="image-name">
 </details>
 <img align="center" src="https://i.postimg.cc/sfwKBygk/314627208-1998699590341332-1190079230480457434-n.jpg" 
 <h3 align="left"> </h3>
