@@ -10,14 +10,14 @@
 
 <h3 align="left">Released app on Play store:</h3> 
 <p align="left">
-<img align="center" src="https://i.postimg.cc/sfwKBygk/314627208-1998699590341332-1190079230480457434-n.jpg" height="200" 
+<img align="center" src="https://i.postimg.cc/sfwKBygk/314627208-1998699590341332-1190079230480457434-n.jpg" 
 <h3 align="left"> </h3>
 <p align="left">
-<img align="center" src="https://i.postimg.cc/8cKbxdYp/image-11.jpg" height="200" 
+<img align="center" src="https://i.postimg.cc/8cKbxdYp/image-11.jpg" 
      
  <h3 align="left">Released app on App store:</h3> 
 <p align="left">
-<img align="center" src="https://i.postimg.cc/m2nwwwMV/325412168-511378201059727-7233546358729569567-n.png" height="200" 
+<img align="center" src="https://i.postimg.cc/m2nwwwMV/325412168-511378201059727-7233546358729569567-n.png" " 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
