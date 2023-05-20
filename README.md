@@ -35,7 +35,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=KamrulIbnZaman&show_icons=true&locale=en" alt="KamrulIbnZaman" /></p>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=kamrulibnzaman)](https://github.com/kamrulibnzaman/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=kamrulibnzaman&theme=vue-dark&hide_border=true" height="185")](https://github.com/kamrulibnzaman/github-readme-activity-graph)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KamrulIbnZaman&" alt="KamrulIbnZaman" /></p>
 <p align="center">
