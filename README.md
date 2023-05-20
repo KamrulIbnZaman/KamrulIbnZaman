@@ -33,7 +33,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=KamrulIbnZaman&show_icons=true&locale=en&layout=compact" alt="KamrulIbnZaman" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mdzahid-pro&show_icons=true&locale=en" alt="mdzahid-pro" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=KamrulIbnZaman&show_icons=true&locale=en" alt="KamrulIbnZaman" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdzahid-pro&" alt="mdzahid-pro" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KamrulIbnZaman&" alt="KamrulIbnZaman" /></p>
 
