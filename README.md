@@ -35,6 +35,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KamrulIbnZaman&" alt="KamrulIbnZaman" /></p>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=kamrulibnzaman&theme=dracula)](https://github.com/kamrulibnzaman/github-readme-activity-graph)
-
 
