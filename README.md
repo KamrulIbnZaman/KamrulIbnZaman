@@ -22,7 +22,10 @@
   <summary>Released app on App store</summary>
   <img src="https://i.postimg.cc/m2nwwwMV/325412168-511378201059727-7233546358729569567-n.png"  height="150" name="image-name">
     <p align="left">
-<a href="https://apps.apple.com/app/workpeople/id6476810230" target="blank"><img align="center" src="https://i.postimg.cc/m22F1NJC/icon.png" alt="https://www.facebook.com/kamrulibnzaman" height="30" width="40" /></a>
+<a href="https://apps.apple.com/app/workpeople/id6476810230" target="blank"><img align="center" src="https://i.postimg.cc/m22F1NJC/icon.png" alt="https://www.facebook.com/kamrulibnzaman" height="40" width="40" /></a>
+</p>
+    <p align="left">
+<a href="https://apps.apple.com/us/app/workpeople-pro/id6476810160" target="blank"><img align="center" src="https://i.postimg.cc/Px3Ssr8R/icon.png" alt="https://www.facebook.com/kamrulibnzaman" height="40" width="40" /></a>
 </p>
 </details>
 
