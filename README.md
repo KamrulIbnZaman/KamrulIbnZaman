@@ -10,13 +10,14 @@
 
 <h3 align="left">Released app on Play store:</h3> 
 <p align="left">
-<details>
-  <summary>Released app on Play store</summary>
-  <img src="https://i.postimg.cc/sfwKBygk/314627208-1998699590341332-1190079230480457434-n.jpg" height="150" name="image-name">
-  <img src="https://i.postimg.cc/8cKbxdYp/image-11.jpg" height="150" name="image-name">
-  <img src="https://i.postimg.cc/XYgCVxzv/image-14.png" height="150" name="image-name">
-  <img src="https://i.postimg.cc/FHvS5wGq/image-15.png" height="150" name="image-name">
-</details>
+  
+<p align="left"> <a href="https://play.google.com/store/apps/details?id=com.fiveTwoFund.app" target="_blank" rel="noreferrer"> <img src="https://i.postimg.cc/nrRtHXDh/five-twofund.png" alt="five and two fund" width="40" height="40"/> </a>
+  <a href="https://play.google.com/store/apps/details?id=com.xgenious.shopmart" target="_blank" rel="noreferrer"> <img src="https://i.postimg.cc/d3kYn83c/mobiq.png" alt="MobiQ" width="40" height="40"/> </a>
+<a href="https://play.google.com/store/apps/details?id=com.beefinder.es" target="_blank" rel="noreferrer"> <img src="https://i.postimg.cc/rFqb8B5R/beefinder.png" alt="BeeFinder - Ayuda a domicilio" width="40" height="40"/> </a>
+<a href="https://play.google.com/store/apps/details?id=com.beefinder_profesional.es" target="_blank" rel="noreferrer"> <img src="https://i.postimg.cc/Kvr2f7DB/beefinder-seller.png" alt="BeeFinder Profesionales" width="40" height="40"/> </a>
+
+</p>
+
   
   <details>
   <summary>Released app on App store</summary>
