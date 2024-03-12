@@ -10,6 +10,15 @@
  <a href="https://play.google.com/store/apps/details?id=com.xgenious.xteam" target="_blank" rel="noreferrer"> <img src="https://i.postimg.cc/jj0fdB07/image.png" alt="xTeam" width="40" height="40"/> </a>
 </p>
 
+<h3 align="left">Worked on development :</h3>
+<p align="left">
+<a href="https://codecanyon.net/item/qixer-multivendor-on-demand-service-marketplace-and-service-finder-buyer-app/38154133?s_rank=21" target="_blank" rel="noreferrer"> <img src="https://i.postimg.cc/mkxPw5Bs/image.png" alt="Qixer" width="40" height="40"/> </a>
+<a href="https://codecanyon.net/item/qixer-multivendor-on-demand-service-marketplace-seller-app/39013880?s_rank=17" target="_blank" rel="noreferrer"> <img src="https://i.postimg.cc/wxhMzF91/image.png" alt="Qixer Seller" width="40" height="40"/> </a>
+<a href="https://codecanyon.net/item/crowdfunding-platform-flutter-mobile-app-fundorex/39675422?s_rank=14" target="_blank" rel="noreferrer"> <img src="https://i.postimg.cc/C1hD8th6/image.png" alt="Fundorex" width="40" height="40"/> </a>
+<a href="https://codecanyon.net/item/nazmart-tenant-shop-flutter-mobile-app/45385600?s_rank=11" target="_blank" rel="noreferrer"> <img src="https://i.postimg.cc/52PTCcS6/image.png" alt="Nazmart" width="40" height="40"/> </a>
+</p>
+
+
 <h3 align="left">Released app on Play store:</h3> 
 <p align="left">
   
