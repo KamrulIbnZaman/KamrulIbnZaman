@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Kamrul Ibn Zaman</h1>
 <h3 align="center">A passionate flutter developer from Bangladesh</h3>
 
-<h3 align="left">Developed :</h3><p align="left">
+<h3 align="left">Developed :</h3>
+<p align="left">
 <p align="left"> <a href="https://codecanyon.net/item/freelancer-flutter-mobile-app-xilancer-freelancer-marketplace-platform/49913337" target="_blank" rel="noreferrer"> <img src="https://i.postimg.cc/gJh3KdV4/image.png" alt="Xilancer" width="40" height="40"/> </a>
 <p align="left"> <a href="https://codecanyon.net/item/safecart-ecommerce-customer-mobile-app/49481701?s_rank=6" target="_blank" rel="noreferrer"> <img src="https://i.postimg.cc/sgnLkPtq/image.png" alt="Safecart" width="40" height="40"/> </a>
 <p align="left"> <a href="https://codecanyon.net/item/vendor-app-safecart-ecommerce-platform/49481922?s_rank=5" target="_blank" rel="noreferrer"> <img src="https://i.postimg.cc/0Q10Fb2h/image.png" alt="Safecart vendor" width="40" height="40"/> </a>
