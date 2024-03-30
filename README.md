@@ -26,8 +26,8 @@
   <a href="https://play.google.com/store/apps/details?id=com.xgenious.shopmart" target="_blank" rel="noreferrer"> <img src="https://i.postimg.cc/d3kYn83c/mobiq.png" alt="MobiQ" width="40" height="40"/> </a>
 <a href="https://play.google.com/store/apps/details?id=com.beefinder.es" target="_blank" rel="noreferrer"> <img src="https://i.postimg.cc/rFqb8B5R/beefinder.png" alt="BeeFinder - Ayuda a domicilio" width="40" height="40"/> </a>
 <a href="https://play.google.com/store/apps/details?id=com.beefinder_profesional.es" target="_blank" rel="noreferrer"> <img src="https://i.postimg.cc/Kvr2f7DB/beefinder-seller.png" alt="BeeFinder Profesionales" width="40" height="40"/> </a>
-<a href="https://play.google.com/store/apps/details?id=ng.workpeople.app" target="_blank" rel="noreferrer"> <img src="https://i.postimg.cc/m22F1NJC/icon.png" alt="Workpeople" width="40" height="40"/> </a>
-<a href="https://play.google.com/store/apps/details?id=ng.workpeople.pro" target="_blank" rel="noreferrer"> <img src="https://i.postimg.cc/Px3Ssr8R/icon.png" alt="Workpeople Pro" width="40" height="40"/> </a>
+<a href="https://play.google.com/store/apps/details?id=ng.workpeople.app" target="_blank" rel="noreferrer"> <img src="https://i.postimg.cc/KYBTpxvC/image.png" alt="Workpeople" width="40" height="40"/> </a>
+<a href="https://play.google.com/store/apps/details?id=ng.workpeople.pro" target="_blank" rel="noreferrer"> <img src="https://i.postimg.cc/R056HyQd/image.png" alt="Workpeople Pro" width="40" height="40"/> </a>
 <a href="https://play.google.com/store/apps/details?id=com.ondemand.servicesjet" target="_blank" rel="noreferrer"> <img src="https://i.postimg.cc/cCwz8Vk8/image.png" alt="Services Jet" width="40" height="40"/> </a>
 <a href="https://play.google.com/store/apps/details?id=com.agonworkman.app" target="_blank" rel="noreferrer"> <img src="https://i.postimg.cc/RVyCqcsN/icon.png" alt="Agon Workman" width="40" height="40"/> </a>
 <a href="https://play.google.com/store/apps/details?id=com.givepy" target="_blank" rel="noreferrer"> <img src="https://i.postimg.cc/WpqMh7Sk/app-icon.png" alt="GIVEPY" width="40" height="40"/> </a>
@@ -38,8 +38,8 @@
 <p align="left">
   
 <p align="left"> <a href="https://apps.apple.com/in/app/five-and-two-fund/id6443989537" target="_blank" rel="noreferrer"> <img src="https://i.postimg.cc/nrRtHXDh/five-twofund.png" alt="five and two fund" width="40" height="40"/> </a>
-<a href="https://apps.apple.com/us/app/workpeople/id6476810230" target="_blank" rel="noreferrer"> <img src="https://i.postimg.cc/m22F1NJC/icon.png" alt="Workpeople" width="40" height="40"/> </a>
-<a href="https://apps.apple.com/us/app/workpeople-pro/id6476810160" target="_blank" rel="noreferrer"> <img src="https://i.postimg.cc/Px3Ssr8R/icon.png" alt="Workpeople Pro" width="40" height="40"/> </a>
+<a href="https://apps.apple.com/us/app/workpeople/id6476810230" target="_blank" rel="noreferrer"> <img src="https://i.postimg.cc/KYBTpxvC/image.png" alt="Workpeople" width="40" height="40"/> </a>
+<a href="https://apps.apple.com/us/app/workpeople-pro/id6476810160" target="_blank" rel="noreferrer"> <img src="https://i.postimg.cc/R056HyQd/image.png" alt="Workpeople Pro" width="40" height="40"/> </a>
 
 </p>
 
