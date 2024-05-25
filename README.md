@@ -42,10 +42,10 @@
 <p align="left">
   
 <p align="left"> <a href="https://apps.apple.com/in/app/five-and-two-fund/id6443989537" target="_blank" rel="noreferrer"> <img src="https://i.postimg.cc/nrRtHXDh/five-twofund.png" alt="five and two fund" width="40" height="40"/> </a>
-//workpeople
+<!-- workpeople -->
 <a href="https://apps.apple.com/us/app/workpeople/id6476810230" target="_blank" rel="noreferrer"> <img src="https://i.postimg.cc/KYBTpxvC/image.png" alt="Workpeople" width="40" height="40"/> </a>
 <a href="https://apps.apple.com/us/app/workpeople-pro/id6476810160" target="_blank" rel="noreferrer"> <img src="https://i.postimg.cc/R056HyQd/image.png" alt="Workpeople Pro" width="40" height="40"/> </a>
-//agenttasker
+<!-- agenttasker -->
 <a href="https://apps.apple.com/us/app/client-by-agenttasker/id6475639769" target="_blank" rel="noreferrer"> <img src="https://i.postimg.cc/L6RNYw9C/image.png" alt="Client by AgentTasker" width="40" height="40"/> </a>
 
 </p>
