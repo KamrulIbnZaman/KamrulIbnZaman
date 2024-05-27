@@ -35,6 +35,7 @@
 <a href="https://play.google.com/store/apps/details?id=com.givepy" target="_blank" rel="noreferrer"> <img src="https://i.postimg.cc/WpqMh7Sk/app-icon.png" alt="GIVEPY" width="40" height="40"/> </a>
 <a href="https://play.google.com/store/apps/details?id=com.agenttasker.client" target="_blank" rel="noreferrer"> <img src="https://i.postimg.cc/L6RNYw9C/image.png" alt="Client by AgentTasker" width="40" height="40"/> </a>
 <a href="https://play.google.com/store/apps/details?id=de.rentnerminijob" target="_blank" rel="noreferrer"> <img src="https://i.postimg.cc/ncLvBJmL/minijob-buyer.png" alt="Minijob - Auftraggeber" width="40" height="40"/> </a>
+<a href="https://play.google.com/store/apps/details?id=de.rentnerminijob.handwerker" target="_blank" rel="noreferrer"> <img src="https://i.postimg.cc/pTK8dvCb/image.png" alt="Minijob - Handwerker" width="40" height="40"/> </a>
 
 </p>
 
@@ -47,6 +48,7 @@
 <a href="https://apps.apple.com/us/app/workpeople-pro/id6476810160" target="_blank" rel="noreferrer"> <img src="https://i.postimg.cc/R056HyQd/image.png" alt="Workpeople Pro" width="40" height="40"/> </a>
 <!-- agenttasker -->
 <a href="https://apps.apple.com/us/app/client-by-agenttasker/id6475639769" target="_blank" rel="noreferrer"> <img src="https://i.postimg.cc/L6RNYw9C/image.png" alt="Client by AgentTasker" width="40" height="40"/> </a>
+<a href="https://apps.apple.com/us/app/tasker-by-agenttasker/id6475639952" target="_blank" rel="noreferrer"> <img src="https://i.postimg.cc/W3VLQmfm/230x0w.webp" alt="Tasker by AgentTasker" width="40" height="40"/> </a>
 
 </p>
 
