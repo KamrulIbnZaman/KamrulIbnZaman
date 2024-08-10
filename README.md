@@ -34,6 +34,7 @@
 <a href="https://play.google.com/store/apps/details?id=com.agonworkman.app" target="_blank" rel="noreferrer"> <img src="https://i.postimg.cc/RVyCqcsN/icon.png" alt="Agon Workman" width="40" height="40"/> </a>
 <a href="https://play.google.com/store/apps/details?id=com.givepy" target="_blank" rel="noreferrer"> <img src="https://i.postimg.cc/WpqMh7Sk/app-icon.png" alt="GIVEPY" width="40" height="40"/> </a>
 <a href="https://play.google.com/store/apps/details?id=com.agenttasker.client" target="_blank" rel="noreferrer"> <img src="https://i.postimg.cc/L6RNYw9C/image.png" alt="Client by AgentTasker" width="40" height="40"/> </a>
+<a href="https://play.google.com/store/apps/details?id=com.agenttasker.tasker" target="_blank" rel="noreferrer"> <img src="https://i.postimg.cc/W3VLQmfm/230x0w.webp" alt="Tasker by AgentTasker" width="40" height="40"/> </a>
 <a href="https://play.google.com/store/apps/details?id=de.rentnerminijob" target="_blank" rel="noreferrer"> <img src="https://i.postimg.cc/ncLvBJmL/minijob-buyer.png" alt="Minijob - Auftraggeber" width="40" height="40"/> </a>
 <a href="https://play.google.com/store/apps/details?id=de.rentnerminijob.handwerker" target="_blank" rel="noreferrer"> <img src="https://i.postimg.cc/pTK8dvCb/image.png" alt="Minijob - Handwerker" width="40" height="40"/> </a>
 
