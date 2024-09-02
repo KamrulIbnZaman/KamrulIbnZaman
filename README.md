@@ -68,7 +68,7 @@
 <a href="https://github.com/KamrulIbnZaman">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=KamrulIbnZaman&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=KamrulIbnZaman&layout=compact&langs_count=8&theme=gotham"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=kamrulibnzaman&theme=transparent&exclude_days=" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=kamrulibnzaman&theme=transparent&exclude_days=fri" alt="GitHub Streak" />
 </a>
 </p>
 
