@@ -51,6 +51,9 @@
 <!-- agenttasker -->
 <a href="https://apps.apple.com/us/app/client-by-agenttasker/id6475639769" target="_blank" rel="noreferrer"> <img src="https://i.postimg.cc/L6RNYw9C/image.png" alt="Client by AgentTasker" width="40" height="40"/> </a>
 <a href="https://apps.apple.com/us/app/tasker-by-agenttasker/id6475639952" target="_blank" rel="noreferrer"> <img src="https://i.postimg.cc/W3VLQmfm/230x0w.webp" alt="Tasker by AgentTasker" width="40" height="40"/> </a>
+<!-- poshora -->
+
+<a href="https://apps.apple.com/us/app/poshora-app/id6642673369" target="_blank" rel="noreferrer"> <img src="https://github.com/KamrulIbnZaman/KamrulIbnZaman/blob/main/assets/poshora.png" alt="Poshora App" width="40" height="40"/> </a>
 
 </p>
 
