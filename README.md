@@ -40,6 +40,10 @@
 <a href="https://play.google.com/store/apps/details?id=de.rentnerminijob" target="_blank" rel="noreferrer"> <img src="https://i.postimg.cc/ncLvBJmL/minijob-buyer.png" alt="Minijob - Auftraggeber" width="40" height="40"/> </a>
 <a href="https://play.google.com/store/apps/details?id=de.rentnerminijob.handwerker" target="_blank" rel="noreferrer"> <img src="https://i.postimg.cc/pTK8dvCb/image.png" alt="Minijob - Handwerker" width="40" height="40"/> </a>
 <a href="https://play.google.com/store/apps/details?id=com.poshorabd.proedge" target="_blank" rel="noreferrer"> <img src="https://github.com/KamrulIbnZaman/KamrulIbnZaman/blob/main/assets/poshora.png" alt="Poshora" width="40" height="40"/> </a>
+<a href="https://play.google.com/store/apps/details?id=com.hudumia.client" target="_blank" rel="noreferrer"> <img src="https://github.com/KamrulIbnZaman/KamrulIbnZaman/blob/main/assets/hudumia-client.png" alt="Hudumia" width="40" height="40"/> </a>
+<a href="https://play.google.com/store/apps/details?id=com.hudumia.provider" target="_blank" rel="noreferrer"> <img src="https://github.com/KamrulIbnZaman/KamrulIbnZaman/blob/main/assets/hudumia-provider.png" alt="Hudumia Provider" width="40" height="40"/> </a>
+<a href="https://play.google.com/store/apps/details?id=com.mvxdigital.freelancer" target="_blank" rel="noreferrer"> <img src="https://github.com/KamrulIbnZaman/KamrulIbnZaman/blob/main/assets/mvx-freelancer.png" alt="MVXDIGITAL- Freelander Service" width="40" height="40"/> </a>
+<a href="https://play.google.com/store/apps/details?id=com.mvxdigital.client" target="_blank" rel="noreferrer"> <img src="https://github.com/KamrulIbnZaman/KamrulIbnZaman/blob/main/assets/mvx-client.png" alt="MVXDIGITAL - Client Service" width="40" height="40"/> </a>
 
 </p>
 
