@@ -12,6 +12,7 @@
  <a href="https://codecanyon.net/item/grenmart-laravel-ecommerce-shop-flutter-app/40188895?s_rank=13" target="_blank" rel="noreferrer"> <img src="https://i.postimg.cc/xT9XGh7T/image.png" alt="Grenmart" width="40" height="40"/> </a>
  <a href="https://play.google.com/store/apps/details?id=com.xgenious.prohandy_client" target="_blank" rel="noreferrer"> <img src="https://github.com/KamrulIbnZaman/KamrulIbnZaman/blob/main/assets/prohandy.png" alt="Prohandy" width="40" height="40"/> </a>
  <a href="https://play.google.com/store/apps/details?id=com.xgenious.prohandy_provider" target="_blank" rel="noreferrer"> <img src="https://github.com/KamrulIbnZaman/KamrulIbnZaman/blob/main/assets/prohandy-pro.png" alt="Prohandy Pro" width="40" height="40"/> </a>
+ <a href="https://play.google.com/store/apps/details?id=com.xgenious.car_service" target="_blank" rel="noreferrer"> <img src="https://github.com/KamrulIbnZaman/KamrulIbnZaman/blob/main/assets/GoCar.png" alt="GoCar" width="40" height="40"/> </a>
 </p>
 
 <h3 align="left">Worked on development :</h3>
@@ -82,7 +83,7 @@
 <a href="https://github.com/KamrulIbnZaman">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=KamrulIbnZaman&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=KamrulIbnZaman&layout=compact&langs_count=8&theme=gotham"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=kamrulibnzaman&theme=transparent&exclude_days=fri" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=kamrulibnzaman&theme=transparent&exclude_days=fri,sat" alt="GitHub Streak" />
 </a>
 </p>
 
