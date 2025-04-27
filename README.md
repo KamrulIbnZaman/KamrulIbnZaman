@@ -64,6 +64,7 @@
 <a href="https://apps.apple.com/us/app/mvxdigital-client-service/id6739973563" target="_blank" rel="noreferrer"> <img src="https://github.com/KamrulIbnZaman/KamrulIbnZaman/blob/main/assets/mvx-client.png" alt="MVXDIGITAL Client Service" width="40" height="40"/> </a>
 <a href="https://apps.apple.com/us/app/mvxdigital-freelancer-service/id6739973380" target="_blank" rel="noreferrer"> <img src="https://github.com/KamrulIbnZaman/KamrulIbnZaman/blob/main/assets/mvx-freelancer.png" alt="MVXDIGITAL Freelancer Service" width="40" height="40"/> </a>
 <a href="https://apps.apple.com/us/app/kunative-pour-clients/id6744265273" target="_blank" rel="noreferrer"> <img src="https://github.com/KamrulIbnZaman/KamrulIbnZaman/blob/main/assets/kunative-client.png" alt="Kunative pour Clients" width="40" height="40"/> </a>
+<a href="https://apps.apple.com/us/app/kunative-pour-freelances/id6744265267" target="_blank" rel="noreferrer"> <img src="https://github.com/KamrulIbnZaman/KamrulIbnZaman/blob/main/assets/kunative-freelancer.png" alt="Kunative pour Clients" width="40" height="40"/> </a>
 <!-- poshora -->
 
 <a href="https://apps.apple.com/us/app/poshora-app/id6642673369" target="_blank" rel="noreferrer"> <img src="https://github.com/KamrulIbnZaman/KamrulIbnZaman/blob/main/assets/poshora.png" alt="Poshora App" width="40" height="40"/> </a>
