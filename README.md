@@ -48,6 +48,7 @@
 <a href="https://play.google.com/store/apps/details?id=com.kunative.app" target="_blank" rel="noreferrer"> <img src="https://github.com/KamrulIbnZaman/KamrulIbnZaman/blob/main/assets/kunative-freelancer.png" alt="Kunative - freelancer" width="40" height="40"/> </a>
 <a href="https://play.google.com/store/apps/details?id=com.kunative.client_app" target="_blank" rel="noreferrer"> <img src="https://github.com/KamrulIbnZaman/KamrulIbnZaman/blob/main/assets/kunative-client.png" alt="Kunative - client" width="40" height="40"/> </a>
 <a href="https://play.google.com/store/apps/details?id=com.onestopshop.vendor" target="_blank" rel="noreferrer"> <img src="https://github.com/KamrulIbnZaman/KamrulIbnZaman/blob/main/assets/1stopshopvendor.png" alt="1 Stop Shop Vendor" width="40" height="40"/> </a>
+<a href="https://play.google.com/store/apps/details?id=com.snickr.app" target="_blank" rel="noreferrer"> <img src="https://github.com/KamrulIbnZaman/KamrulIbnZaman/blob/main/assets/snickr_buyer.png" alt="SnickR" width="40" height="40"/> </a>
 
 </p>
 
