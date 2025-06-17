@@ -24,7 +24,7 @@
 </p>
 
 
-<h3 align="left">Released app on Play store:</h3> 
+<h3 align="left">Released apps on the Play store:</h3> 
 <p align="left">
   
 <p align="left"> <a href="https://play.google.com/store/apps/details?id=com.fiveTwoFund.app" target="_blank" rel="noreferrer"> <img src="https://i.postimg.cc/nrRtHXDh/five-twofund.png" alt="five and two fund" width="40" height="40"/> </a>
@@ -53,7 +53,7 @@
 
 </p>
 
-<h3 align="left">Released app on App store:</h3> 
+<h3 align="left">Released apps on the App store:</h3> 
 <p align="left">
   
 <p align="left"> <a href="https://apps.apple.com/in/app/five-and-two-fund/id6443989537" target="_blank" rel="noreferrer"> <img src="https://i.postimg.cc/nrRtHXDh/five-twofund.png" alt="five and two fund" width="40" height="40"/> </a>
@@ -67,9 +67,9 @@
 <a href="https://apps.apple.com/us/app/mvxdigital-freelancer-service/id6739973380" target="_blank" rel="noreferrer"> <img src="https://github.com/KamrulIbnZaman/KamrulIbnZaman/blob/main/assets/mvx-freelancer.png" alt="MVXDIGITAL Freelancer Service" width="40" height="40"/> </a>
 <a href="https://apps.apple.com/us/app/kunative-pour-clients/id6744265273" target="_blank" rel="noreferrer"> <img src="https://github.com/KamrulIbnZaman/KamrulIbnZaman/blob/main/assets/kunative-client.png" alt="Kunative pour Clients" width="40" height="40"/> </a>
 <a href="https://apps.apple.com/us/app/kunative-pour-freelances/id6744265267" target="_blank" rel="noreferrer"> <img src="https://github.com/KamrulIbnZaman/KamrulIbnZaman/blob/main/assets/kunative-freelancer.png" alt="Kunative pour Clients" width="40" height="40"/> </a>
+<a href="https://apps.apple.com/us/app/snickr/id6746753132" target="_blank" rel="noreferrer"> <img src="https://github.com/KamrulIbnZaman/KamrulIbnZaman/blob/main/assets/snickr_buyer.png" alt="SnickR" width="40" height="40"/> </a>
 <a href="https://apps.apple.com/us/app/snickr-seller/id6746798655" target="_blank" rel="noreferrer"> <img src="https://github.com/KamrulIbnZaman/KamrulIbnZaman/blob/main/assets/snickr_seller.png" alt="SnickR Seller" width="40" height="40"/> </a>
 <!-- poshora -->
-
 <a href="https://apps.apple.com/us/app/poshora-app/id6642673369" target="_blank" rel="noreferrer"> <img src="https://github.com/KamrulIbnZaman/KamrulIbnZaman/blob/main/assets/poshora.png" alt="Poshora App" width="40" height="40"/> </a>
 
 </p>
