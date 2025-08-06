@@ -32,7 +32,7 @@
 <a href="https://play.google.com/store/apps/details?id=com.beefinder.es" target="_blank" rel="noreferrer"> <img src="https://github.com/KamrulIbnZaman/KamrulIbnZaman/blob/main/assets/beefinder.png" alt="BeeFinder - Ayuda a domicilio" width="40" height="40"/> </a>
 <a href="https://play.google.com/store/apps/details?id=com.beefinder_profesional.es" target="_blank" rel="noreferrer"> <img src="https://github.com/KamrulIbnZaman/KamrulIbnZaman/blob/main/assets/beefinder-seller.png" alt="BeeFinder Profesionales" width="40" height="40"/> </a>
 <a href="https://play.google.com/store/apps/details?id=ng.workpeople.app" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/KamrulIbnZaman/KamrulIbnZaman/refs/heads/main/assets/Workpeople.webp" alt="Workpeople" width="40" height="40"/> </a>
-<a href="https://play.google.com/store/apps/details?id=ng.workpeople.pro" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/KamrulIbnZaman/KamrulIbnZaman/refs/heads/main/assets.webp" alt="Workpeople Pro" width="40" height="40"/> </a>
+<a href="https://play.google.com/store/apps/details?id=ng.workpeople.pro" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/KamrulIbnZaman/KamrulIbnZaman/refs/heads/main/assets/Workpeople Pro.webp" alt="Workpeople Pro" width="40" height="40"/> </a>
 <a href="https://play.google.com/store/apps/details?id=com.ondemand.servicesjet" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/KamrulIbnZaman/KamrulIbnZaman/refs/heads/main/assets/services-jet.png" alt="Services Jet" width="40" height="40"/> </a>
 <a href="https://play.google.com/store/apps/details?id=com.agonworkman.app" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/KamrulIbnZaman/KamrulIbnZaman/refs/heads/main/assets/agon-workman.webp" alt="Agon Workman" width="40" height="40"/> </a>
 <a href="https://give-me.pt" target="_blank" rel="noreferrer"> <img src="https://github.com/KamrulIbnZaman/KamrulIbnZaman/blob/main/assets/giveme.png" alt="GIVEPY" width="40" height="40"/> </a>
@@ -73,6 +73,8 @@
 <a href="https://apps.apple.com/us/app/snickr-seller/id6746798655" target="_blank" rel="noreferrer"> <img src="https://github.com/KamrulIbnZaman/KamrulIbnZaman/blob/main/assets/snickr_seller.png" alt="SnickR Seller" width="40" height="40"/> </a>
 <!-- poshora -->
 <a href="https://apps.apple.com/us/app/poshora-app/id6642673369" target="_blank" rel="noreferrer"> <img src="https://github.com/KamrulIbnZaman/KamrulIbnZaman/blob/main/assets/poshora.png" alt="Poshora App" width="40" height="40"/> </a>
+<a href="https://apps.apple.com/us/app/home-fixer-marketplace/id6747962977" target="_blank" rel="noreferrer"> <img src="https://github.com/KamrulIbnZaman/KamrulIbnZaman/blob/main/assets/home-fixer.png" alt="Home Fixer" width="40" height="40"/> </a>
+<a href="https://apps.apple.com/us/app/home-fixer-marketplace-pro/id6748271768" target="_blank" rel="noreferrer"> <img src="https://github.com/KamrulIbnZaman/KamrulIbnZaman/blob/main/assets/home-fixer-pro.png" alt="Home Fixer Pro" width="40" height="40"/> </a>
 
 </p>
 
