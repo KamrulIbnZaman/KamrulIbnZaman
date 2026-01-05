@@ -93,6 +93,11 @@
 <p align="left"> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>  </p>
 
 <!-- GITHUB-STATS:START -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Total%20Commits-1%2C856-2ea44f?style=for-the-badge&logo=github&labelColor=1c1c1c" alt="Total commits badge" />
+  <img src="https://img.shields.io/badge/Longest%20Streak-48%20days-1f6feb?style=for-the-badge&logo=github&labelColor=1c1c1c" alt="Longest streak badge" />
+  <img src="https://img.shields.io/badge/Current%20Streak-13%20days-bf4b8a?style=for-the-badge&logo=github&labelColor=1c1c1c" alt="Current streak badge" />
+</p>
 <!-- GITHUB-STATS:END -->
 
 <p align="center">
