@@ -103,6 +103,5 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=KamrulIbnZaman&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=KamrulIbnZaman&layout=compact&langs_count=8&theme=gotham"/>
 </a>
- <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=kamrulibnzaman&theme=dark&exclude_days=Fri%2CSat" alt="GitHub Streak" /></a>
 </p>
 
