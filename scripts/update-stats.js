@@ -124,6 +124,10 @@ async function graphqlRequest(token, query, variables) {
 }
 
 function computeStats(days) {
+  const isBreakDay = (dateStr) => {
+    const day = new Date(dateStr).getUTCDay(); // 0=Sun, 5=Fri, 6=Sat
+    return day === 5 || day === 6;
+  };
 
   let total = 0;
   let longestStreak = 0;
@@ -131,20 +135,25 @@ function computeStats(days) {
 
   for (const day of days) {
     total += day.count;
+    const breakDay = isBreakDay(day.date);
     if (day.count > 0) {
       rolling += 1;
       if (rolling > longestStreak) {
         longestStreak = rolling;
       }
-    } else {
+    } else if (!breakDay) {
       rolling = 0;
     }
   }
 
   let currentStreak = 0;
   for (let i = days.length - 1; i >= 0; i -= 1) {
-    if (days[i].count > 0) {
+    const day = days[i];
+    const breakDay = isBreakDay(day.date);
+    if (day.count > 0) {
       currentStreak += 1;
+    } else if (breakDay) {
+      continue;
     } else {
       break;
     }
