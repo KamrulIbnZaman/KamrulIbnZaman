@@ -94,9 +94,7 @@
 
 <!-- GITHUB-STATS:START -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Total%20Commits-1%2C856-2ea44f?style=for-the-badge&logo=github&labelColor=1c1c1c" alt="Total commits badge" />
-  <img src="https://img.shields.io/badge/Longest%20Streak-48%20days-1f6feb?style=for-the-badge&logo=github&labelColor=1c1c1c" alt="Longest streak badge" />
-  <img src="https://img.shields.io/badge/Current%20Streak-13%20days-bf4b8a?style=for-the-badge&logo=github&labelColor=1c1c1c" alt="Current streak badge" />
+  <img src="preview.svg" alt="GitHub stats preview" />
 </p>
 <!-- GITHUB-STATS:END -->
 
@@ -107,5 +105,4 @@
 </a>
  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=kamrulibnzaman&theme=dark&exclude_days=Fri%2CSat" alt="GitHub Streak" /></a>
 </p>
-
 
